@@ -1,1 +1,1 @@
-# Game-of-Pig
+# Project 2: Gambling Game
